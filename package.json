@@ -1,6 +1,7 @@
 {
   "name": "react-hosting",
   "version": "0.1.0",
+  "homepage": "https://react.gpdevworks.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
