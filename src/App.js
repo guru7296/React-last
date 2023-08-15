@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          guru React
+          gur React
         </a>
       </header>
     </div>
